@@ -10,6 +10,6 @@ If you want to modify the tool to include other layouts, go right ahead, but the
 It's actually quite simple. All it does is whenever I press a key, it will delete that key and replace it with the colemak key.
 
 ## Why even bother?
-After using colemak for almost a year, it's a pain to use the QWERTZ layout.
-I chose to then write this as a small experiment, mainly out of curiosity if it'd even work well.
-This is NOT a good tool to use daily but for a few quick school projects in class, it works.
+* After using colemak for almost a year, it's a pain to use the QWERTZ layout.
+* I chose to then write this as a small experiment, mainly out of curiosity if it'd even work well.
+* This is NOT a good tool to use daily but for a few quick school projects in class, it works.
