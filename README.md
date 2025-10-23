@@ -20,3 +20,11 @@ It's actually quite simple. All it does is whenever I press a key, it will delet
 3. Choose "Change Layout" and select colemak.
 4. Choose "Start Translation".
 To stop it, press the F12 key.
+
+## How do I add more layouts?
+* I plan to add an inbuilt layout editor but for now it works like this.
+1. Fork the project.
+2. Open it in Visual Studio.
+3. Duplicate and rename "applyColemakLayout", then edit it to your liking.
+4. Add a new case in "switch (layoutChoice)" and call your new function.
+5. Compile your modified source.
