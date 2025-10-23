@@ -1,6 +1,6 @@
 # KeyTranslator
 ## What is this?
-This is a simple C++ tool that allows me to translate a keyboard layout to another.
+This is a simple (and very buggy) C++ tool that allows me to translate a keyboard layout to another.
 
 * This is a simple and fairly useless tool for most people, but I made it just for using it on my school's computers.
 * The school PCs don't give me admin permission so I used a workaround.
