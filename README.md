@@ -13,3 +13,10 @@ It's actually quite simple. All it does is whenever I press a key, it will delet
 * After using colemak for almost a year, it's a pain to use the QWERTZ layout.
 * I chose to then write this as a small experiment, mainly out of curiosity if it'd even work well.
 * This is NOT a good tool to use daily but for a few quick school projects in class, it works.
+
+## How can I use this?
+1. Download the newest release or compile it from source.
+2. Run the exe file.
+3. Choose "Change Layout" and select colemak.
+4. Choose "Start Translation".
+To stop it, press the F12 key.
